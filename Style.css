@@ -1,0 +1,95 @@
+body {
+    background-image: url("cool\ background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    margin: 0px;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    /*
+    background-color: #242424
+    */
+    background: linear-gradient(#222222, rgba(255, 255, 255, 0)) repeat scroll 0 0 transparent;
+    background-repeat: no-repeat;
+    padding: 50px;
+    margin: 0px;
+    text-align: left;
+}
+
+p {
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+    margin-left: 15px;
+}
+
+.fank {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.glass {
+    background-color: rgba(0, 0, 0, 0);
+    border-radius: 20px;
+    border: 10px;
+    border-color: white;
+    backdrop-filter: blur(5px);
+    margin: 20px;
+    padding: 20px;
+}
+
+.discord {
+    padding: 10px;
+    margin-left: 50px;
+    background: white;
+    outline: none;
+    border: none;
+    border-radius: 100px;
+    overflow: hidden;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+.yutup {
+    padding: 10px;
+    margin-left: 5px;
+    background: white;
+    outline: none;
+    border: none;
+    border-radius: 100px;
+    overflow: hidden;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+.tt {
+    padding: 10px;
+    margin-left: 5px;
+    background: white;
+    outline: none;
+    border: none;
+    border-radius: 100px;
+    overflow: hidden;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+.ip {
+    padding: 10px;
+    margin-left: 5px;
+    background: white;
+    outline: none;
+    border: none;
+    border-radius: 100px;
+    overflow: hidden;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    cursor: pointer;
+}
