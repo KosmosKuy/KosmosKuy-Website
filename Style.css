@@ -44,7 +44,8 @@ p {
 
 .discord {
     padding: 10px;
-    margin-left: 50px;
+    margin-left: 25px;
+    margin-top: 5px;
     background: white;
     outline: none;
     border: none;
@@ -58,6 +59,7 @@ p {
 .yutup {
     padding: 10px;
     margin-left: 5px;
+    margin-top: 5px;
     background: white;
     outline: none;
     border: none;
@@ -71,6 +73,7 @@ p {
 .tt {
     padding: 10px;
     margin-left: 5px;
+    margin-top: 5px;
     background: white;
     outline: none;
     border: none;
@@ -84,6 +87,7 @@ p {
 .ip {
     padding: 10px;
     margin-left: 5px;
+    margin-top: 5px;
     background: white;
     outline: none;
     border: none;
@@ -92,4 +96,5 @@ p {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bolder;
     cursor: pointer;
+    
 }
